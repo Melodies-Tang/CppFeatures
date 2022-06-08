@@ -1,0 +1,1 @@
+# Collection of C++ features, tricks or personal feelings
