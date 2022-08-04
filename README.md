@@ -1,3 +1,3 @@
-# Collection of C++ features, tricks or personal feelings
+# Collection of C++ features, tricks and personal feelings
 
-Initialized with some cases seen during basic cpp course of last term (acting as TA)
+Initialized with some cases encountered during basic cpp course (as TA)
